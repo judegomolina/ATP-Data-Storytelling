@@ -26,4 +26,4 @@ After verifying that you meet all the above mentioned requirements you just need
 
 ## Running the Project ##
 
-Now that everything is ready you just need to open the "ATP Data Storytelling.ipynb" file and then in Kernel click on "Restart & Run All" just to make sure evrything is ok. Finally, you can check every step i went through during the analysis and find out what the conclussions were.
+Now that everything is ready you just need to open the "ATP Data Storytelling.ipynb" file and then in Kernel click on "Restart & Run All" just to make sure evrything is ok. Finally, you can check every step I went through during the analysis and find out what the conclussions were.
