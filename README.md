@@ -5,7 +5,7 @@ This is a project dedicated to analyze ATP matches from 2000 to 2016, making foc
 * Wining Probability vs. Ranking Difference.
 * The Importance of the First Set.
 
-This dataset was taken from Kaggle and includes a "Metadata.txt" file giving a short description of the features,  you can find more information about the it in https://www.kaggle.com/jordangoblet/atp-tour-20002016 .
+This dataset was taken from Kaggle and includes a "Metadata.txt" file giving a short description of the features,  you can find more information about it in https://www.kaggle.com/jordangoblet/atp-tour-20002016 .
 
 ## Getting Started ##
 
